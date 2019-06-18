@@ -5,6 +5,6 @@ Parking lot to keep record of ideas:
 
 
 4) data from Andy:
-    - rt data sets are pretty much text strings with reviews -- Isuggest we dont use them at all
+    - rt data sets are pretty much text strings with reviews -- I suggest we dont use them at all
     - tn-movie_budgets great data set: Release date, Title, Budget, Domestic Sales, Worldwide Sales
         -- Check data - sometimes sales ==0, sometime Domestic Sales =- Worldwide Sales, budgets form $425 KK to 0 drop below cutoff
