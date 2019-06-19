@@ -1,6 +1,6 @@
 # movie-industry-consulting-firm
 
-# The purpose of this repository is to store files in support of "Understanding the Movie Industry" research project
+The purpose of this repository is to store files in support of "Understanding the Movie Industry" research project
 
 # Content of the repository 
 - This README.md file
