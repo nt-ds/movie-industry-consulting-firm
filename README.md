@@ -4,8 +4,8 @@
 The purpose of this repository is to store files in support of our research project
 
 ## Group E Team: 
-- Dmitry Mikhaylov, Budgets and Revenues
-- Ngoc Tran, Genere and Crew
+- Dmitry Mikhaylov, budgets and revenues
+- Ngoc Tran, genre and crew
 
 ## Content of the repository:
 - This README.md file
