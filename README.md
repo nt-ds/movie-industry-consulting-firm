@@ -1,4 +1,5 @@
-# Welcome to Mod 1 Project - "Understanding the Movie Industry"
+# Welcome to Mod 1 Project 
+# "Understanding the Movie Industry"
 
 ## The purpose of this repository is to store files in support of our research project
 
